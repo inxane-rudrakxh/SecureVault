@@ -1,0 +1,10 @@
+SecureVault License Agreement
+
+By installing and using SecureVault, you agree to the following terms:
+
+- This software is provided as-is, without any warranty.
+- You may use it for personal and educational purposes only.
+- You may not redistribute, sell, or modify it without permission.
+- Developer: Rudraksh (INXANE RUDRAKXH)
+
+Press "I Agree" to continue installation.
